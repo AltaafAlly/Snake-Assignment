@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Altaafs AI Snake:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Altaafs_AI_Snake_jar</output-path>
+    <root id="archive" name="Altaafs AI Snake.jar">
+      <element id="module-output" name="Altaafs AI Snake" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/Snake2022-v1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
